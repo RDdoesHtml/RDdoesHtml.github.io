@@ -1,0 +1,7 @@
+Improve error messages for authentication failures to give helpful advice
+
+Enhance error handling in auth-page.tsx with specific messages, update passport.authenticate params in server/auth.ts, and add downlevelIteration to tsconfig.json.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 6018aea6-151f-4572-aa4a-d8dc9db8ab48
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/b486f5ec-23c2-4a4e-8315-bbbcc402170f/261d2039-324a-4b13-850a-abadb772b284.jpg
